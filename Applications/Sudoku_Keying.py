@@ -5,6 +5,18 @@ Created on Tue Apr  4 06:21:37 2023
 @author: Thiruvarulselvan K
 """
 
+"""
+Application output
+sudoku_key(3)
+0 0 0 
+0 0 0 
+0 0 0 
+Your key is
+2 7 6 
+9 5 1 
+4 3 8 
+"""
+
 def sudoku_key(n):
     key=[]
     for i in range(n):
